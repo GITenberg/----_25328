@@ -1,0 +1,33 @@
+_repo: '----_25328'
+_version: 0.1.0
+alternative_title: Dou peng xian hua
+contributor:
+  commentator:
+    agent_name: Wang, Xiumei
+    alias: 王秀梅
+    gutenberg_agent_id: '31252'
+    url: http://www.gutenberg.org/2009/agents/31252
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ainajushi
+    alias: 艾衲居士
+    gutenberg_agent_id: '31251'
+    url: http://www.gutenberg.org/2009/agents/31251
+description: ''
+gutenberg_issued: '2008-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25328'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+- !lcc 'PL'
+- !lcsh 'Short stories, Chinese'
+title: 豆棚閒話
+url: http://www.gutenberg.org/ebooks/25328
